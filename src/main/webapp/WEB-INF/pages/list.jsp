@@ -5,7 +5,7 @@
 <%@ page import="java.util.ArrayList"%>
 
 <div>
-    Welcome,demo
+    Welcome,<%= session.getAttribute("username")%>
     <a href="#">Logout</a>
 </div>
 
