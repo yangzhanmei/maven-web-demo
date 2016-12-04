@@ -4,4 +4,5 @@
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/filters/LoginCheckFilter.java
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/views/ListBooksPageServlet.java
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/actions/CreateBookServlet.java
+/home/yangzhanmei/java/maven-web-demo/src/main/java/demo/actions/LogoutServlet.java
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/dao/booksDao.java

@@ -6,7 +6,7 @@
 
 <div>
     Welcome,<%= session.getAttribute("username")%>
-    <a href="#">Logout</a>
+    <a href="/logout">logout</a>
 </div>
 
 <div>
