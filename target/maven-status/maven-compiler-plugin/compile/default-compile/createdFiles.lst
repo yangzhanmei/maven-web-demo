@@ -1,6 +1,7 @@
-demo/views/ListBooksPageServlet.class
 demo/models/Book.class
 demo/views/LoginPageServlet.class
+demo/filters/LoginCheckFilter.class
+demo/views/ListBooksPageServlet.class
 demo/dao/booksDao.class
 demo/actions/CreateBookServlet.class
 demo/actions/LoginServlet.class

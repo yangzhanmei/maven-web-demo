@@ -1,6 +1,7 @@
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/views/LoginPageServlet.java
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/actions/LoginServlet.java
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/models/Book.java
+/home/yangzhanmei/java/maven-web-demo/src/main/java/demo/filters/LoginCheckFilter.java
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/views/ListBooksPageServlet.java
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/actions/CreateBookServlet.java
 /home/yangzhanmei/java/maven-web-demo/src/main/java/demo/dao/booksDao.java
