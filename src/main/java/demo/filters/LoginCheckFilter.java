@@ -17,7 +17,7 @@ public class LoginCheckFilter implements Filter {
         HttpServletResponse res = (HttpServletResponse) servletResponse;
         HttpSession session = req.getSession();
         if(session.getAttribute("username") != null){
-            filterChain.doFilter(servletRequest,servletResponse);
+                filterChain.doFilter(servletRequest,servletResponse);
         }
         else {
             res.sendRedirect("/login.html");

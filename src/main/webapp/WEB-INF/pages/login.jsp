@@ -3,7 +3,12 @@
 
 <div>
     <div>
-        <h4>messages or tips to the user</h4>
+        <%if(session.getAttribute("message") != null){%>
+            <h4><%= session.getAttribute("message")%></h4>
+        <%}
+          else{%>
+            <h4>Please login</h4>
+        <%}%>
     </div>
     <div>
         <h4>My Book System</h4>
